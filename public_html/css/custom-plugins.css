@@ -1,0 +1,174 @@
+.customDisclaimer {
+   text-align: center;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   border-radius: 5px;
+}
+div#widget-customDisclaimerChanges {
+   display: none;
+}
+
+#footer .social_block {
+    position: absolute;
+}
+
+
+.wtsocialicons,
+#footer .comm_cont .col-xs-12 .footer-row .social_head{
+    display: none !important;
+}
+
+#footer .comm_cont .col-xs-12 .footer-row {
+    padding: 0;
+}
+#footer .footer-row .socialIcon {
+    display: block !important;
+    position: fixed;
+    left: 0;
+    width: 40px;
+    top: 400px;
+    z-index: 9999;
+}    
+
+#footer .footer-row .socialIcon a {
+    display: block !important;
+    height: 30px;
+    margin: 0 0 2.5px;
+    border-radius: 0 5px 5px 0;
+}
+    
+#footer .footer-row .socialIcon a .fa {
+    line-height: 30px;
+}
+
+
+
+
+
+#top-navbar-collapse #hotelLocMenuList {
+    min-height: 350px !important;
+}
+#menuFilterLoc .mega-menu .locName+.ul-top.show {
+    height: auto !important;
+    min-height: 530px;
+    max-height: 70vh;
+}
+.hotelVisitBtn:before,
+.hotelBeBtn:before {
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.customNote {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 5px;
+}
+div#widget-BottomNote {
+    display: none;
+}
+
+
+#CDSWIDTC{
+    margin: 0 auto!important;
+}
+
+
+
+
+#TA_certificateOfExcellence324{
+    width: 403px;
+    text-align:center;
+    margin-left: 0;
+}
+
+#widget-ta_coe_2015{
+    background-color: transparent;
+    box-shadow: none;
+    margin-left: 0;}
+
+header .header-fluid {
+    height: auto;
+}
+
+@media (min-width: 1025px){
+    .carousel-indicators,
+    .jssor-carousel-container .jssor-home-wrapper #homeCarousel>div:nth-child(3) {
+        bottom: 11% !important;
+    }
+    .bookingform-wrapper {
+        bottom: 14% !important;
+    }
+
+    .video-banner-container .bookingform-wrapper {
+        bottom: 8% !important;
+    }
+}
+
+.promotions-wrapper .promo-btn .promo-text{
+    line-height: 1.2;
+}
+
+@media (min-width: 992px){
+    .camera-carousel-container #homeCarousel .camera_caption{
+        max-width: 80%;   
+    }
+}
+
+.camera-carousel-container #homeCarousel .camera_caption {
+    top: 50% !important;
+    transform: translateY(-50%);
+}
+
+.for-homepage .address-block-details .hotel-contacts address .address-telephone{
+    font-size: 0.9em;
+}
+
+
+.btn-inverse {
+    background: none;
+    background-color: transparent;
+    color: #a3814f;
+}
+
+.btn-custom {
+    margin: 0 5px !important;
+    float: left;
+}
+
+
+
+#widget-naini_ta{ background: transparent;margin-left: 0;}
+
+
+
+
+
+
+
+
+
+
+
